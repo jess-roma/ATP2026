@@ -6,9 +6,9 @@
 
 **Foto**: 
 
-<img src="me.jpeg" width="200">
+<img src="img/me.jpeg" width="200">
 
 
-**Resumo**: Este trabalho apresenta a resolução do desafio "Labirinto 10" da plataforma Blockly Games. Através da programação em blocos visuais, foi construída a lógica necessária para guiar o personagem à meta.
+**Resumo**: Este trabalho apresenta a resolução do desafio da paisagem com barco, desenvolvido com o módulo Turtle na plataforma Blockly Games. Através da combinação de blocos de programação visual para controlo de traço.
 
-**Lista de resultados**: [Ver imagen da resolução do labirinto 10](./img/maze.png)
+**Lista de resultados**: [Ver imagens dos blocos e do resultado final](./resolucao.md)

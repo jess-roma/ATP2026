@@ -6,7 +6,7 @@
 
 **Foto**: 
 
-<img src="me.jpeg" width="300"> 
+<img src="img/me.jpeg" width="150">
 
 
 **Resumo**: 

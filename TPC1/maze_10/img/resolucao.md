@@ -1,0 +1,1 @@
+![Labirinto](maze.png)

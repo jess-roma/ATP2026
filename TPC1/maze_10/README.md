@@ -1,8 +1,14 @@
 # Labirinto 10
 
 **Nome**: Jéssica Verónica Romanyshyn 
-![imagem](wa.jpg)
 
 **Número de identificação**: 114006
 
-**Descrição**: Acabar TPC 
+**Foto**: 
+
+<img src="me.jpeg" width="300"> 
+
+
+**Resumo**: 
+
+**Lista de resultados**: [Ver imagen da resolução do labirinto 10](./resolucao.md)

@@ -9,6 +9,6 @@
 <img src="img/me.jpeg" width="200">
 
 
-**Resumo**: Este trabalho apresenta a resolução do desafio da paisagem com barco, desenvolvido com o módulo Turtle na plataforma Blockly Games. Através da combinação de blocos de programação visual para controlo de traço.
+**Resumo**: Este trabalho apresenta a resolução do desafio da paisagem com um barco, desenvolvido em "Turtle" na plataforma Blockly Games, através da combinação de blocos de programação visual.
 
 **Lista de resultados**: [Ver imagens dos blocos e do resultado final](./resolucao.md)

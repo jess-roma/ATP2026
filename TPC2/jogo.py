@@ -81,13 +81,14 @@ Tenta outra vez...""")
                     tent+=1
                     g= random.randint(li,ls)
                     gg= int(input(f"\n> O teu número é maior (1), menor (2) ou igual (3) a '{g}'? (1/2/3): "))
-         if gg==3:
+         if gg==3 and tent==1:
              print(f"""\n\n>>> Então o número era '{g}'! Precisei de 1 tentativa(s) para o adivinhar... 🎉
         
                       """)
 
 
-         print(f"""\n\n>>> Então o número era '{g}'! Precisei de {tent} tentativa(s) para o adivinhar... 🎉
+         else:
+             print(f"""\n\n>>> Então o número era '{g}'! Precisei de {tent} tentativa(s) para o adivinhar... 🎉
 
               """)
 

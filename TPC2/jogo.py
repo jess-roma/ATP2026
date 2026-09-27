@@ -84,9 +84,7 @@ Tenta outra vez...""")
          if gg==3 and tent==1:
              print(f"""\n\n>>> Então o número era '{g}'! Precisei de 1 tentativa(s) para o adivinhar... 🎉
         
-                      """)
-
-
+ """)
          else:
              print(f"""\n\n>>> Então o número era '{g}'! Precisei de {tent} tentativa(s) para o adivinhar... 🎉
 
@@ -98,7 +96,6 @@ Tenta outra vez...""")
         print("\n>> Resposta inválida! ❌")
         menu= input("\n> Queres voltar ao menu (m) ou sair (s)? ")
         
-
 
 print("""\n\n That's all folks! 👋🐷
 
